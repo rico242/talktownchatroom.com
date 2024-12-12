@@ -20,3 +20,6 @@
     <script src="scripts.js"></script> <!-- Link to your JavaScript file -->
 </body>
 </html>
+git add .
+git commit -m "Add index.html and other files"
+git push origin main
